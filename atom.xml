@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-05T14:03:42.916Z</updated>
+  <updated>2016-10-05T14:04:57.136Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/10/05/%E4%BF%AE%E6%94%B9ubuntu%E7%BB%88%E7%AB%AF%E8%83%8C%E6%99%AF/"/>
     <id>http://yoursite.com/2016/10/05/修改ubuntu终端背景/</id>
     <published>2016-10-05T13:28:52.000Z</published>
-    <updated>2016-10-05T14:03:42.916Z</updated>
+    <updated>2016-10-05T14:04:57.136Z</updated>
     
     <content type="html"><![CDATA[<h2 id="事情的起因，强迫症的我"><a href="#事情的起因，强迫症的我" class="headerlink" title="事情的起因，强迫症的我"></a>事情的起因，强迫症的我</h2><p>实习回来打开实验室电脑蓦然发现ubuntu终端还是那丑陋的红色背景，实在是有强迫症受不了，于是便打起了修改背景的注意。</p>
 <h2 id="开干"><a href="#开干" class="headerlink" title="开干"></a>开干</h2><ol>
@@ -72,7 +72,7 @@
     </summary>
     
     
-      <category term="ubuntu ,shell" scheme="http://yoursite.com/tags/ubuntu-shell/"/>
+      <category term="ubuntu shell" scheme="http://yoursite.com/tags/ubuntu-shell/"/>
     
   </entry>
   
@@ -126,55 +126,6 @@
     
     
       <category term="me" scheme="http://yoursite.com/tags/me/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Music</title>
-    <link href="http://yoursite.com/2016/10/05/%E7%94%9F%E6%B4%BB/2014-11-20-Music%20Lover/"/>
-    <id>http://yoursite.com/2016/10/05/生活/2014-11-20-Music Lover/</id>
-    <published>2016-10-05T13:08:58.068Z</published>
-    <updated>2016-10-05T13:08:58.068Z</updated>
-    
-    <content type="html"><![CDATA[<p> 做个低调的听众 无关世事 你在就好 </p>
-<blockquote>
-<p>记住。不要试着了解我。</p>
-<p>就像我从不多问你一句话一样。</p>
-<p>陌生之人，铭记于心。</p>
-<p>那么。各自安好。活在音乐里。</p>
-</blockquote>
-<p>我在这里，从最初到现在，<br>自始至终看清楚自己的位置，<br>我仅仅只是一名推荐者，<br>我将自己摆在很低很谦卑的位置。<br>这里只是个分享声音与旋律的地方，<br>音乐不需要身份，不需要性别，甚至炒作。</p>
-<p>我不是什么明星，<br>更不是什么公众人物。</p>
-<p>就像一座商场，我们去到那里，<br>获得我们想要的东西，<br>各取所需，然后各奔东西，<br>回到自己的生命之中。</p>
-<a id="more"></a> 
-<p>你不用问售货员的姓名，<br>不用猜测商场的历史，<br>不用追究衣服的产地。</p>
-<p>你所需要做的，就是喜欢，并且合适，<br>然后买下，带走它。</p>
-<p>灵魂是有属性的，<br>偌大的一个世界，<br>每天有成千上万的人，<br>与你擦肩而过。<br>但依然很多很多的人觉得孤独，<br>很多人觉得无处倾诉。<br>因为他们并没有找到，<br>和自己灵魂属性相同的人们。</p>
-<p>我在这样的一个地方，<br>坚持了这么久，唯一的原因大概就是，<br>它是我连接庞大世界的一个媒介，<br>我可以通过这里，<br>找到那些与我志同道合，或者臭味相投的人。<br>找到那些散落在世界各地的同类，<br>我很满足了。</p>
-<p>我从未说过我是谁，<br>我从未说过，我是个怎么样的人。<br>你们可以把我想象成你们脑海中的任何一个人，<br>任何一种姿态，<br>只要你想，你就可以。<br>但对于我，<br>这个你们可能一辈子都不会谋面的陌生人，<br>没有任何改变。</p>
-<p>并且这并不是我生活的全部，<br>生活远比这更残酷，更真实，<br>我需要在这里找回自己，<br>然后重新回到现实。<br>每个人的心中，都有一座天枰，<br>衡量着自己的世界，<br>与所接受的认识，<br>希望你的天枰，没有倾斜。<br>倾斜，即是坍塌的开始。</p>
-<p>总有一天，我也会离开这里，<br>带着不一样的态度重新出发，<br>继续创造属于我的世界，<br>但，这里所有的回忆，<br>努力与坚持，<br>收获与感动，<br>永远会留在生命的印记之中。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt; 做个低调的听众 无关世事 你在就好 &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;记住。不要试着了解我。&lt;/p&gt;
-&lt;p&gt;就像我从不多问你一句话一样。&lt;/p&gt;
-&lt;p&gt;陌生之人，铭记于心。&lt;/p&gt;
-&lt;p&gt;那么。各自安好。活在音乐里。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我在这里，从最初到现在，&lt;br&gt;自始至终看清楚自己的位置，&lt;br&gt;我仅仅只是一名推荐者，&lt;br&gt;我将自己摆在很低很谦卑的位置。&lt;br&gt;这里只是个分享声音与旋律的地方，&lt;br&gt;音乐不需要身份，不需要性别，甚至炒作。&lt;/p&gt;
-&lt;p&gt;我不是什么明星，&lt;br&gt;更不是什么公众人物。&lt;/p&gt;
-&lt;p&gt;就像一座商场，我们去到那里，&lt;br&gt;获得我们想要的东西，&lt;br&gt;各取所需，然后各奔东西，&lt;br&gt;回到自己的生命之中。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="life" scheme="http://yoursite.com/tags/life/"/>
     
   </entry>
   
@@ -255,59 +206,91 @@
   </entry>
   
   <entry>
-    <title>Github博客安装disqus评论插件</title>
-    <link href="http://yoursite.com/2016/10/05/%E6%8A%80%E6%9C%AF/2015-07-20-%E4%B8%BAGithub%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/"/>
-    <id>http://yoursite.com/2016/10/05/技术/2015-07-20-为Github博客添加评论功能/</id>
+    <title>Something about building site</title>
+    <link href="http://yoursite.com/2016/10/05/%E6%8A%80%E6%9C%AF/2014-11-29-Something%20about%20building%20site/"/>
+    <id>http://yoursite.com/2016/10/05/技术/2014-11-29-Something about building site/</id>
     <published>2016-10-05T13:08:58.068Z</published>
     <updated>2016-10-05T13:08:58.068Z</updated>
     
-    <content type="html"><![CDATA[<hr>
-<blockquote>
-<p><em>我们都知道github博客通常使用markdown标记语言进行编写的，速度快是其最大的特点，但是随之而来的是其功能上会受到一定的限制，比如评论功能。我一直认为写博客的目的主要有两种，其一在于希望能抒发自己的感情，享受知识在自己之间流淌的快感，再则就是希望与更多的有志之士一起交流，共同进步。</em></p>
-<p><em>博主本人在看到网上相关介绍github博客评论功能解决方案时大多提到的是采用disqus这个第三方的评论插件。但具体如何配置却解释的并不是很清晰，为了避免大家reinvent the whell，在此将disqus插件的详细安装过程做一记录，希望能够帮助到大家。</em></p>
-<hr>
+    <content type="html"><![CDATA[<ul>
+<li>Dedecms配置<blockquote>
+<p>导入数据库配置文件以后需要注意的地方，</p>
 </blockquote>
-<h3 id="注册disqus账号"><a href="#注册disqus账号" class="headerlink" title="注册disqus账号"></a>注册disqus账号</h3><p>这一步需要注意的是，登陆成功以后的操作，如下图所示，disqus作为一个第三方的评论插件，为我们提供了完备的评论管理功能，我们可以看到所有人对我们托管的网站网页的评价，这里我已经将我的github博客托管在了disqus。正常来说，当我们新注册一个disqus账号的时候我们需要做如下步骤：</p>
-<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_home.png" alt="登陆disqus主页面"></p>
-<p>####1.将我们的网站托管给disqus，如下图红色箭头所示，Add Disqus To Site</p>
-<a id="more"></a> 
-<ul>
-<li>在这里我们根据自己网站的情况，填写相应信息即可。</li>
+</li>
+<li><p>修改系统参数，网页主页链接设置为/，dedecms安装目录设置为空，这样的话网页的前台和后台都会显示正常</p>
+</li>
+<li><p>2 Jquery常用插件总结</p>
+</li>
 </ul>
-<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_register.png" alt="根据自己网站情况填写相应信息"></p>
+<blockquote>
 <ul>
-<li>点击完成以后会跳转到选择平台界面，在这里我们如果没有特殊需求，直接选择<em>universe code</em>选项即可</li>
+<li><p>jquery弹出层插件之Layer，可以实现如淘宝推荐的弹窗效果，qq在线分布swf等效果,许愿墙等效果</p>
+</li>
+<li><p>图片轮播插件太多，不再介绍</p>
+</li>
+<li><p>照片墙插件推荐fancybox</p>
+</li>
+<li>轮播插件推荐 Owl Carousel</li>
 </ul>
-<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_choice.png" alt="选择平台"></p>
-<ul>
-<li>进行到这一步，第一阶段就算完成了，我们获得了如下图所示的嵌入代码</li>
-</ul>
-<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_code.png" alt="获得所需网页嵌入代码"></p>
-<p>###2.将我们第一步所获得的代码嵌入到我们的网页中就可以了</p>
-<p>构建github博客大家一般都会有自己的模板页，在博客模板页中，将第一步获得的评论所需代码放进去就好了。</p>
-<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_html.png" alt="将网页代码放入到我们需要添加评论的页面中"></p>
-<p>####3.具体效果如下图所示</p>
-<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_result.png" alt="disqus插件显示效果"></p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;我们都知道github博客通常使用markdown标记语言进行编写的，速度快是其最大的特点，但是随之而来的是其功能上会受到一定的限制，比如评论功能。我一直认为写博客的目的主要有两种，其一在于希望能抒发自己的感情，享受知识在自己之间流淌的快感，再则就是希望与更多的有志之士一起交流，共同进步。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;博主本人在看到网上相关介绍github博客评论功能解决方案时大多提到的是采用disqus这个第三方的评论插件。但具体如何配置却解释的并不是很清晰，为了避免大家reinvent the whell，在此将disqus插件的详细安装过程做一记录，希望能够帮助到大家。&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;注册disqus账号&quot;&gt;&lt;a href=&quot;#注册disqus账号&quot; class=&quot;headerlink&quot; title=&quot;注册disqus账号&quot;&gt;&lt;/a&gt;注册disqus账号&lt;/h3&gt;&lt;p&gt;这一步需要注意的是，登陆成功以后的操作，如下图所示，disqus作为一个第三方的评论插件，为我们提供了完备的评论管理功能，我们可以看到所有人对我们托管的网站网页的评价，这里我已经将我的github博客托管在了disqus。正常来说，当我们新注册一个disqus账号的时候我们需要做如下步骤：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_home.png&quot; alt=&quot;登陆disqus主页面&quot;&gt;&lt;/p&gt;
-&lt;p&gt;####1.将我们的网站托管给disqus，如下图红色箭头所示，Add Disqus To Site&lt;/p&gt;
+      Something about building sit
     
     </summary>
     
       <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="网站" scheme="http://yoursite.com/tags/%E7%BD%91%E7%AB%99/"/>
+      <category term="site" scheme="http://yoursite.com/tags/site/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Something about me</title>
+    <link href="http://yoursite.com/2016/10/05/%E5%8F%A9%E9%97%AE/2015-07-09-Something%20about%20me/"/>
+    <id>http://yoursite.com/2016/10/05/叩问/2015-07-09-Something about me/</id>
+    <published>2016-10-05T13:08:58.068Z</published>
+    <updated>2016-10-05T13:08:58.068Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="The-definition-of-a-puzzled-man"><a href="#The-definition-of-a-puzzled-man" class="headerlink" title="The definition of a puzzled man"></a>The definition of a puzzled man</h3><hr>
+<blockquote>
+<p><em>when i am old,maybe someone will ask me “hey,buddy,how will you picture your life?”</em><br><em>I really think at that time i will answer in this way  “search,a puzzed man, he never figure out what he really</em><br><em>wants,he is just a puzzled kid who live in his world and always keep on searching<br>for something”.</em> </p>
+<hr>
+</blockquote>
+<h3 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h3><p>上次写博客还是在2014年的冬天，记得上次在动笔的时候就一直在唏嘘岁月的无情，相当初文字对我来说还是很容易掌控的，犹记得大二的夏天自己在图书馆的二层整整看了一个月的书籍，那时的自己有事没事还都可以跩两段文字也不知道给自己看还是给别人看。现在怎么就连成段的文字都写不出来呢！so，上次憋了好久还是没有把自己想说的话说出来，只是把自己脑中的想法大致梳理一下赋之纸上，想来也是极为窘迫的。<a href="http://dependmyse.github.io/2014/11/20/Something%20I%20want%20to%20say%20to%20myself.html" target="_blank" rel="external">一个失意的人的只言片语</a>，如果想看看一个失意的人是怎么样的，不妨戳进去。</p>
+<h3 id="回顾历史总是让人感叹"><a href="#回顾历史总是让人感叹" class="headerlink" title="回顾历史总是让人感叹"></a>回顾历史总是让人感叹</h3><p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/me.png" alt="看看吧，一个少年四年的变化"><br>说实话别说别人就连自己看到这样一组图片都不由得感叹岁月是把猪饲料，岁月是把杀猪刀！想想当初大一的时候无忧无虑的玩耍，不知道什么是忧愁，而今怎么就被岁月涂改成这样，难道是岁月一时兴起而信笔涂鸦！当然这是玩笑话，自己的成长自己显然是最有发言权了，再没有比自己更加了解这其中的蜕变了。</p>
+<p>刚上大一时，以为终于摆脱了大人的约束，终于可以按照自己想要的方式生活了，年轻的时候总是充满精力，各种兼职也是做得飞起。再后来大二大三时来到天大，然后自己就突然间成长了，或许只有当把你从你生活中的环境中完全的剥离出来，然后再让你去审视当初的自己时，你才可以获得最为准确的认知。刚来天大时适应过程的苦与酸自不必说，我只知道一个学期我用胖了10几斤的身体去换取了对专业技能的掌握，我用自己的努力回应别人的瞧不起。没办法，毕竟自己的脸是自己挣的。</p>
+<p>再就是考研-复试-读研的过程中，我并不是一个善言辞的人，一直认为能用语言描述出来的感情都是虚的，真正的感情是需要放在心里去品味的，亦如品一杯温酒，愈久弥香。用我哥们凯子的话说就是：“<em>我这一辈子最骄傲的事情就是有你们这一帮朋友，一帮好哥们！</em>”。这也是我想说的，感谢有你们陪伴我走过青春的岁月。</p>
+<a id="more"></a> 
+<p>###历史总是惊人的相似<br>写到这里，我已经写不下去了，或许你会说我逗比，但是真的写不下去了，刚酝酿出一点感情，慢慢有一点感觉，却被陈一琳个逗比的qq弹窗搅和的一点不剩。大抵我是该任命的，一入IT深似海，从此文艺是路人。</p>
+<p>虽然时光很是无奈，你拼命的想要去抓住它留住它，但是并没有什么卵用，但我还是想做点什么，比如写点矫情的文字，算是缅怀吧！</p>
+<p>不管怎么样，我还是会继续的努力下去，正如我在我的<a href="http://xiangyanglai.blog.163.com" target="_blank" rel="external">网易博客</a>中的签名一样，不断成长中，我对未来充满希望……</p>
+<hr>
+<p><em>爱编程，爱晚起，偶尔也忙到深夜，喜欢学习，努力工作，也享受生活，我酷爱技术，崇尚简单的快乐和幸福，我不是码农，我是程序员，我和你一样，为理想而奋斗！</em><br><strong>这就是我对生活的期许！</strong></p>
+<hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;The-definition-of-a-puzzled-man&quot;&gt;&lt;a href=&quot;#The-definition-of-a-puzzled-man&quot; class=&quot;headerlink&quot; title=&quot;The definition of a puzzled man&quot;&gt;&lt;/a&gt;The definition of a puzzled man&lt;/h3&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;when i am old,maybe someone will ask me “hey,buddy,how will you picture your life?”&lt;/em&gt;&lt;br&gt;&lt;em&gt;I really think at that time i will answer in this way  “search,a puzzed man, he never figure out what he really&lt;/em&gt;&lt;br&gt;&lt;em&gt;wants,he is just a puzzled kid who live in his world and always keep on searching&lt;br&gt;for something”.&lt;/em&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h3&gt;&lt;p&gt;上次写博客还是在2014年的冬天，记得上次在动笔的时候就一直在唏嘘岁月的无情，相当初文字对我来说还是很容易掌控的，犹记得大二的夏天自己在图书馆的二层整整看了一个月的书籍，那时的自己有事没事还都可以跩两段文字也不知道给自己看还是给别人看。现在怎么就连成段的文字都写不出来呢！so，上次憋了好久还是没有把自己想说的话说出来，只是把自己脑中的想法大致梳理一下赋之纸上，想来也是极为窘迫的。&lt;a href=&quot;http://dependmyse.github.io/2014/11/20/Something%20I%20want%20to%20say%20to%20myself.html&quot;&gt;一个失意的人的只言片语&lt;/a&gt;，如果想看看一个失意的人是怎么样的，不妨戳进去。&lt;/p&gt;
+&lt;h3 id=&quot;回顾历史总是让人感叹&quot;&gt;&lt;a href=&quot;#回顾历史总是让人感叹&quot; class=&quot;headerlink&quot; title=&quot;回顾历史总是让人感叹&quot;&gt;&lt;/a&gt;回顾历史总是让人感叹&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/me.png&quot; alt=&quot;看看吧，一个少年四年的变化&quot;&gt;&lt;br&gt;说实话别说别人就连自己看到这样一组图片都不由得感叹岁月是把猪饲料，岁月是把杀猪刀！想想当初大一的时候无忧无虑的玩耍，不知道什么是忧愁，而今怎么就被岁月涂改成这样，难道是岁月一时兴起而信笔涂鸦！当然这是玩笑话，自己的成长自己显然是最有发言权了，再没有比自己更加了解这其中的蜕变了。&lt;/p&gt;
+&lt;p&gt;刚上大一时，以为终于摆脱了大人的约束，终于可以按照自己想要的方式生活了，年轻的时候总是充满精力，各种兼职也是做得飞起。再后来大二大三时来到天大，然后自己就突然间成长了，或许只有当把你从你生活中的环境中完全的剥离出来，然后再让你去审视当初的自己时，你才可以获得最为准确的认知。刚来天大时适应过程的苦与酸自不必说，我只知道一个学期我用胖了10几斤的身体去换取了对专业技能的掌握，我用自己的努力回应别人的瞧不起。没办法，毕竟自己的脸是自己挣的。&lt;/p&gt;
+&lt;p&gt;再就是考研-复试-读研的过程中，我并不是一个善言辞的人，一直认为能用语言描述出来的感情都是虚的，真正的感情是需要放在心里去品味的，亦如品一杯温酒，愈久弥香。用我哥们凯子的话说就是：“&lt;em&gt;我这一辈子最骄傲的事情就是有你们这一帮朋友，一帮好哥们！&lt;/em&gt;”。这也是我想说的，感谢有你们陪伴我走过青春的岁月。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="叩问" scheme="http://yoursite.com/categories/%E5%8F%A9%E9%97%AE/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
@@ -407,6 +390,63 @@
   </entry>
   
   <entry>
+    <title>Github博客安装disqus评论插件</title>
+    <link href="http://yoursite.com/2016/10/05/%E6%8A%80%E6%9C%AF/2015-07-20-%E4%B8%BAGithub%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/"/>
+    <id>http://yoursite.com/2016/10/05/技术/2015-07-20-为Github博客添加评论功能/</id>
+    <published>2016-10-05T13:08:58.068Z</published>
+    <updated>2016-10-05T13:08:58.068Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<blockquote>
+<p><em>我们都知道github博客通常使用markdown标记语言进行编写的，速度快是其最大的特点，但是随之而来的是其功能上会受到一定的限制，比如评论功能。我一直认为写博客的目的主要有两种，其一在于希望能抒发自己的感情，享受知识在自己之间流淌的快感，再则就是希望与更多的有志之士一起交流，共同进步。</em></p>
+<p><em>博主本人在看到网上相关介绍github博客评论功能解决方案时大多提到的是采用disqus这个第三方的评论插件。但具体如何配置却解释的并不是很清晰，为了避免大家reinvent the whell，在此将disqus插件的详细安装过程做一记录，希望能够帮助到大家。</em></p>
+<hr>
+</blockquote>
+<h3 id="注册disqus账号"><a href="#注册disqus账号" class="headerlink" title="注册disqus账号"></a>注册disqus账号</h3><p>这一步需要注意的是，登陆成功以后的操作，如下图所示，disqus作为一个第三方的评论插件，为我们提供了完备的评论管理功能，我们可以看到所有人对我们托管的网站网页的评价，这里我已经将我的github博客托管在了disqus。正常来说，当我们新注册一个disqus账号的时候我们需要做如下步骤：</p>
+<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_home.png" alt="登陆disqus主页面"></p>
+<p>####1.将我们的网站托管给disqus，如下图红色箭头所示，Add Disqus To Site</p>
+<a id="more"></a> 
+<ul>
+<li>在这里我们根据自己网站的情况，填写相应信息即可。</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_register.png" alt="根据自己网站情况填写相应信息"></p>
+<ul>
+<li>点击完成以后会跳转到选择平台界面，在这里我们如果没有特殊需求，直接选择<em>universe code</em>选项即可</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_choice.png" alt="选择平台"></p>
+<ul>
+<li>进行到这一步，第一阶段就算完成了，我们获得了如下图所示的嵌入代码</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_code.png" alt="获得所需网页嵌入代码"></p>
+<p>###2.将我们第一步所获得的代码嵌入到我们的网页中就可以了</p>
+<p>构建github博客大家一般都会有自己的模板页，在博客模板页中，将第一步获得的评论所需代码放进去就好了。</p>
+<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_html.png" alt="将网页代码放入到我们需要添加评论的页面中"></p>
+<p>####3.具体效果如下图所示</p>
+<p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_result.png" alt="disqus插件显示效果"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;我们都知道github博客通常使用markdown标记语言进行编写的，速度快是其最大的特点，但是随之而来的是其功能上会受到一定的限制，比如评论功能。我一直认为写博客的目的主要有两种，其一在于希望能抒发自己的感情，享受知识在自己之间流淌的快感，再则就是希望与更多的有志之士一起交流，共同进步。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;博主本人在看到网上相关介绍github博客评论功能解决方案时大多提到的是采用disqus这个第三方的评论插件。但具体如何配置却解释的并不是很清晰，为了避免大家reinvent the whell，在此将disqus插件的详细安装过程做一记录，希望能够帮助到大家。&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;注册disqus账号&quot;&gt;&lt;a href=&quot;#注册disqus账号&quot; class=&quot;headerlink&quot; title=&quot;注册disqus账号&quot;&gt;&lt;/a&gt;注册disqus账号&lt;/h3&gt;&lt;p&gt;这一步需要注意的是，登陆成功以后的操作，如下图所示，disqus作为一个第三方的评论插件，为我们提供了完备的评论管理功能，我们可以看到所有人对我们托管的网站网页的评价，这里我已经将我的github博客托管在了disqus。正常来说，当我们新注册一个disqus账号的时候我们需要做如下步骤：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/disqus_home.png&quot; alt=&quot;登陆disqus主页面&quot;&gt;&lt;/p&gt;
+&lt;p&gt;####1.将我们的网站托管给disqus，如下图红色箭头所示，Add Disqus To Site&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="网站" scheme="http://yoursite.com/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Something</title>
     <link href="http://yoursite.com/2016/10/05/%E7%94%9F%E6%B4%BB/2014-11-16-Something/"/>
     <id>http://yoursite.com/2016/10/05/生活/2014-11-16-Something/</id>
@@ -432,91 +472,51 @@
   </entry>
   
   <entry>
-    <title>Something about me</title>
-    <link href="http://yoursite.com/2016/10/05/%E5%8F%A9%E9%97%AE/2015-07-09-Something%20about%20me/"/>
-    <id>http://yoursite.com/2016/10/05/叩问/2015-07-09-Something about me/</id>
+    <title>Music</title>
+    <link href="http://yoursite.com/2016/10/05/%E7%94%9F%E6%B4%BB/2014-11-20-Music%20Lover/"/>
+    <id>http://yoursite.com/2016/10/05/生活/2014-11-20-Music Lover/</id>
     <published>2016-10-05T13:08:58.068Z</published>
     <updated>2016-10-05T13:08:58.068Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="The-definition-of-a-puzzled-man"><a href="#The-definition-of-a-puzzled-man" class="headerlink" title="The definition of a puzzled man"></a>The definition of a puzzled man</h3><hr>
+    <content type="html"><![CDATA[<p> 做个低调的听众 无关世事 你在就好 </p>
 <blockquote>
-<p><em>when i am old,maybe someone will ask me “hey,buddy,how will you picture your life?”</em><br><em>I really think at that time i will answer in this way  “search,a puzzed man, he never figure out what he really</em><br><em>wants,he is just a puzzled kid who live in his world and always keep on searching<br>for something”.</em> </p>
-<hr>
+<p>记住。不要试着了解我。</p>
+<p>就像我从不多问你一句话一样。</p>
+<p>陌生之人，铭记于心。</p>
+<p>那么。各自安好。活在音乐里。</p>
 </blockquote>
-<h3 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h3><p>上次写博客还是在2014年的冬天，记得上次在动笔的时候就一直在唏嘘岁月的无情，相当初文字对我来说还是很容易掌控的，犹记得大二的夏天自己在图书馆的二层整整看了一个月的书籍，那时的自己有事没事还都可以跩两段文字也不知道给自己看还是给别人看。现在怎么就连成段的文字都写不出来呢！so，上次憋了好久还是没有把自己想说的话说出来，只是把自己脑中的想法大致梳理一下赋之纸上，想来也是极为窘迫的。<a href="http://dependmyse.github.io/2014/11/20/Something%20I%20want%20to%20say%20to%20myself.html" target="_blank" rel="external">一个失意的人的只言片语</a>，如果想看看一个失意的人是怎么样的，不妨戳进去。</p>
-<h3 id="回顾历史总是让人感叹"><a href="#回顾历史总是让人感叹" class="headerlink" title="回顾历史总是让人感叹"></a>回顾历史总是让人感叹</h3><p><img src="https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/me.png" alt="看看吧，一个少年四年的变化"><br>说实话别说别人就连自己看到这样一组图片都不由得感叹岁月是把猪饲料，岁月是把杀猪刀！想想当初大一的时候无忧无虑的玩耍，不知道什么是忧愁，而今怎么就被岁月涂改成这样，难道是岁月一时兴起而信笔涂鸦！当然这是玩笑话，自己的成长自己显然是最有发言权了，再没有比自己更加了解这其中的蜕变了。</p>
-<p>刚上大一时，以为终于摆脱了大人的约束，终于可以按照自己想要的方式生活了，年轻的时候总是充满精力，各种兼职也是做得飞起。再后来大二大三时来到天大，然后自己就突然间成长了，或许只有当把你从你生活中的环境中完全的剥离出来，然后再让你去审视当初的自己时，你才可以获得最为准确的认知。刚来天大时适应过程的苦与酸自不必说，我只知道一个学期我用胖了10几斤的身体去换取了对专业技能的掌握，我用自己的努力回应别人的瞧不起。没办法，毕竟自己的脸是自己挣的。</p>
-<p>再就是考研-复试-读研的过程中，我并不是一个善言辞的人，一直认为能用语言描述出来的感情都是虚的，真正的感情是需要放在心里去品味的，亦如品一杯温酒，愈久弥香。用我哥们凯子的话说就是：“<em>我这一辈子最骄傲的事情就是有你们这一帮朋友，一帮好哥们！</em>”。这也是我想说的，感谢有你们陪伴我走过青春的岁月。</p>
+<p>我在这里，从最初到现在，<br>自始至终看清楚自己的位置，<br>我仅仅只是一名推荐者，<br>我将自己摆在很低很谦卑的位置。<br>这里只是个分享声音与旋律的地方，<br>音乐不需要身份，不需要性别，甚至炒作。</p>
+<p>我不是什么明星，<br>更不是什么公众人物。</p>
+<p>就像一座商场，我们去到那里，<br>获得我们想要的东西，<br>各取所需，然后各奔东西，<br>回到自己的生命之中。</p>
 <a id="more"></a> 
-<p>###历史总是惊人的相似<br>写到这里，我已经写不下去了，或许你会说我逗比，但是真的写不下去了，刚酝酿出一点感情，慢慢有一点感觉，却被陈一琳个逗比的qq弹窗搅和的一点不剩。大抵我是该任命的，一入IT深似海，从此文艺是路人。</p>
-<p>虽然时光很是无奈，你拼命的想要去抓住它留住它，但是并没有什么卵用，但我还是想做点什么，比如写点矫情的文字，算是缅怀吧！</p>
-<p>不管怎么样，我还是会继续的努力下去，正如我在我的<a href="http://xiangyanglai.blog.163.com" target="_blank" rel="external">网易博客</a>中的签名一样，不断成长中，我对未来充满希望……</p>
-<hr>
-<p><em>爱编程，爱晚起，偶尔也忙到深夜，喜欢学习，努力工作，也享受生活，我酷爱技术，崇尚简单的快乐和幸福，我不是码农，我是程序员，我和你一样，为理想而奋斗！</em><br><strong>这就是我对生活的期许！</strong></p>
-<hr>
+<p>你不用问售货员的姓名，<br>不用猜测商场的历史，<br>不用追究衣服的产地。</p>
+<p>你所需要做的，就是喜欢，并且合适，<br>然后买下，带走它。</p>
+<p>灵魂是有属性的，<br>偌大的一个世界，<br>每天有成千上万的人，<br>与你擦肩而过。<br>但依然很多很多的人觉得孤独，<br>很多人觉得无处倾诉。<br>因为他们并没有找到，<br>和自己灵魂属性相同的人们。</p>
+<p>我在这样的一个地方，<br>坚持了这么久，唯一的原因大概就是，<br>它是我连接庞大世界的一个媒介，<br>我可以通过这里，<br>找到那些与我志同道合，或者臭味相投的人。<br>找到那些散落在世界各地的同类，<br>我很满足了。</p>
+<p>我从未说过我是谁，<br>我从未说过，我是个怎么样的人。<br>你们可以把我想象成你们脑海中的任何一个人，<br>任何一种姿态，<br>只要你想，你就可以。<br>但对于我，<br>这个你们可能一辈子都不会谋面的陌生人，<br>没有任何改变。</p>
+<p>并且这并不是我生活的全部，<br>生活远比这更残酷，更真实，<br>我需要在这里找回自己，<br>然后重新回到现实。<br>每个人的心中，都有一座天枰，<br>衡量着自己的世界，<br>与所接受的认识，<br>希望你的天枰，没有倾斜。<br>倾斜，即是坍塌的开始。</p>
+<p>总有一天，我也会离开这里，<br>带着不一样的态度重新出发，<br>继续创造属于我的世界，<br>但，这里所有的回忆，<br>努力与坚持，<br>收获与感动，<br>永远会留在生命的印记之中。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;The-definition-of-a-puzzled-man&quot;&gt;&lt;a href=&quot;#The-definition-of-a-puzzled-man&quot; class=&quot;headerlink&quot; title=&quot;The definition of a puzzled man&quot;&gt;&lt;/a&gt;The definition of a puzzled man&lt;/h3&gt;&lt;hr&gt;
+      &lt;p&gt; 做个低调的听众 无关世事 你在就好 &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;when i am old,maybe someone will ask me “hey,buddy,how will you picture your life?”&lt;/em&gt;&lt;br&gt;&lt;em&gt;I really think at that time i will answer in this way  “search,a puzzed man, he never figure out what he really&lt;/em&gt;&lt;br&gt;&lt;em&gt;wants,he is just a puzzled kid who live in his world and always keep on searching&lt;br&gt;for something”.&lt;/em&gt; &lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;记住。不要试着了解我。&lt;/p&gt;
+&lt;p&gt;就像我从不多问你一句话一样。&lt;/p&gt;
+&lt;p&gt;陌生之人，铭记于心。&lt;/p&gt;
+&lt;p&gt;那么。各自安好。活在音乐里。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h3&gt;&lt;p&gt;上次写博客还是在2014年的冬天，记得上次在动笔的时候就一直在唏嘘岁月的无情，相当初文字对我来说还是很容易掌控的，犹记得大二的夏天自己在图书馆的二层整整看了一个月的书籍，那时的自己有事没事还都可以跩两段文字也不知道给自己看还是给别人看。现在怎么就连成段的文字都写不出来呢！so，上次憋了好久还是没有把自己想说的话说出来，只是把自己脑中的想法大致梳理一下赋之纸上，想来也是极为窘迫的。&lt;a href=&quot;http://dependmyse.github.io/2014/11/20/Something%20I%20want%20to%20say%20to%20myself.html&quot;&gt;一个失意的人的只言片语&lt;/a&gt;，如果想看看一个失意的人是怎么样的，不妨戳进去。&lt;/p&gt;
-&lt;h3 id=&quot;回顾历史总是让人感叹&quot;&gt;&lt;a href=&quot;#回顾历史总是让人感叹&quot; class=&quot;headerlink&quot; title=&quot;回顾历史总是让人感叹&quot;&gt;&lt;/a&gt;回顾历史总是让人感叹&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dependmyse/dependmyse.github.io/master/img/my/me.png&quot; alt=&quot;看看吧，一个少年四年的变化&quot;&gt;&lt;br&gt;说实话别说别人就连自己看到这样一组图片都不由得感叹岁月是把猪饲料，岁月是把杀猪刀！想想当初大一的时候无忧无虑的玩耍，不知道什么是忧愁，而今怎么就被岁月涂改成这样，难道是岁月一时兴起而信笔涂鸦！当然这是玩笑话，自己的成长自己显然是最有发言权了，再没有比自己更加了解这其中的蜕变了。&lt;/p&gt;
-&lt;p&gt;刚上大一时，以为终于摆脱了大人的约束，终于可以按照自己想要的方式生活了，年轻的时候总是充满精力，各种兼职也是做得飞起。再后来大二大三时来到天大，然后自己就突然间成长了，或许只有当把你从你生活中的环境中完全的剥离出来，然后再让你去审视当初的自己时，你才可以获得最为准确的认知。刚来天大时适应过程的苦与酸自不必说，我只知道一个学期我用胖了10几斤的身体去换取了对专业技能的掌握，我用自己的努力回应别人的瞧不起。没办法，毕竟自己的脸是自己挣的。&lt;/p&gt;
-&lt;p&gt;再就是考研-复试-读研的过程中，我并不是一个善言辞的人，一直认为能用语言描述出来的感情都是虚的，真正的感情是需要放在心里去品味的，亦如品一杯温酒，愈久弥香。用我哥们凯子的话说就是：“&lt;em&gt;我这一辈子最骄傲的事情就是有你们这一帮朋友，一帮好哥们！&lt;/em&gt;”。这也是我想说的，感谢有你们陪伴我走过青春的岁月。&lt;/p&gt;
+&lt;p&gt;我在这里，从最初到现在，&lt;br&gt;自始至终看清楚自己的位置，&lt;br&gt;我仅仅只是一名推荐者，&lt;br&gt;我将自己摆在很低很谦卑的位置。&lt;br&gt;这里只是个分享声音与旋律的地方，&lt;br&gt;音乐不需要身份，不需要性别，甚至炒作。&lt;/p&gt;
+&lt;p&gt;我不是什么明星，&lt;br&gt;更不是什么公众人物。&lt;/p&gt;
+&lt;p&gt;就像一座商场，我们去到那里，&lt;br&gt;获得我们想要的东西，&lt;br&gt;各取所需，然后各奔东西，&lt;br&gt;回到自己的生命之中。&lt;/p&gt;
     
     </summary>
     
-      <category term="叩问" scheme="http://yoursite.com/categories/%E5%8F%A9%E9%97%AE/"/>
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Something about building site</title>
-    <link href="http://yoursite.com/2016/10/05/%E6%8A%80%E6%9C%AF/2014-11-29-Something%20about%20building%20site/"/>
-    <id>http://yoursite.com/2016/10/05/技术/2014-11-29-Something about building site/</id>
-    <published>2016-10-05T13:08:58.068Z</published>
-    <updated>2016-10-05T13:08:58.068Z</updated>
-    
-    <content type="html"><![CDATA[<ul>
-<li>Dedecms配置<blockquote>
-<p>导入数据库配置文件以后需要注意的地方，</p>
-</blockquote>
-</li>
-<li><p>修改系统参数，网页主页链接设置为/，dedecms安装目录设置为空，这样的话网页的前台和后台都会显示正常</p>
-</li>
-<li><p>2 Jquery常用插件总结</p>
-</li>
-</ul>
-<blockquote>
-<ul>
-<li><p>jquery弹出层插件之Layer，可以实现如淘宝推荐的弹窗效果，qq在线分布swf等效果,许愿墙等效果</p>
-</li>
-<li><p>图片轮播插件太多，不再介绍</p>
-</li>
-<li><p>照片墙插件推荐fancybox</p>
-</li>
-<li>轮播插件推荐 Owl Carousel</li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      Something about building sit
-    
-    </summary>
-    
-      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="site" scheme="http://yoursite.com/tags/site/"/>
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
     
   </entry>
   

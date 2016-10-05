@@ -21,7 +21,8 @@
 
    通常情况下下载图片我们都是打开百度然后搜索搜索但总是感觉找不到逼格很高的图片，下面推荐一个方法，从lofter里面爬取。   lofter是网易旗下的一批摄影爱好者聚集的社区，里面汇聚了一下高质量的图片。http://www.loft">
 <meta property="og:image" content="http://p1.bpimg.com/4851/079635d48fd56c90.png">
-<meta property="og:updated_time" content="2016-10-05T14:04:57.136Z">
+<meta property="og:image" content="http://p1.bpimg.com/4851/96edbab2d2e46c82.png">
+<meta property="og:updated_time" content="2016-10-05T14:08:34.044Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="修改ubuntu终端背景">
 <meta name="twitter:description" content="事情的起因，强迫症的我实习回来打开实验室电脑蓦然发现ubuntu终端还是那丑陋的红色背景，实在是有强迫症受不了，于是便打起了修改背景的注意。
@@ -206,6 +207,7 @@
 <h3 id="shell命令"><a href="#shell命令" class="headerlink" title="shell命令"></a>shell命令</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">curl http://www.lofter.com/tag/%E6%91%84%E5%BD%B1|grep  -oP &quot;http://imglf0\.nosdn\.127\.net/img/\w*\.jpg&quot;|uniq|xargs wget -p lofter -t 10 -T 30 -N</div></pre></td></tr></table></figure>
 <p>当然如果我们想要爬取的网页是分页类型的话，可以加一个循环就好了。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">for i in &#123;1..50&#125;; </div><div class="line">    do </div><div class="line">       url &quot;http://me2-sex.lofter.com/tag/美媛馆?page=&quot;$i |grep -o &quot;http://imglf.*.jpg&quot; |xargs wget -P lofter -t 10 -T 30 -N</div><div class="line">done;</div></pre></td></tr></table></figure>
+<h3 id="上张新的背景图-哈哈"><a href="#上张新的背景图-哈哈" class="headerlink" title="上张新的背景图,哈哈"></a>上张新的背景图,哈哈</h3><p> <img src="http://p1.bpimg.com/4851/96edbab2d2e46c82.png" alt="新的背景图"></p>
 
       
     </div>

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-05T14:04:57.136Z</updated>
+  <updated>2016-10-05T14:08:34.044Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/10/05/%E4%BF%AE%E6%94%B9ubuntu%E7%BB%88%E7%AB%AF%E8%83%8C%E6%99%AF/"/>
     <id>http://yoursite.com/2016/10/05/修改ubuntu终端背景/</id>
     <published>2016-10-05T13:28:52.000Z</published>
-    <updated>2016-10-05T14:04:57.136Z</updated>
+    <updated>2016-10-05T14:08:34.044Z</updated>
     
     <content type="html"><![CDATA[<h2 id="事情的起因，强迫症的我"><a href="#事情的起因，强迫症的我" class="headerlink" title="事情的起因，强迫症的我"></a>事情的起因，强迫症的我</h2><p>实习回来打开实验室电脑蓦然发现ubuntu终端还是那丑陋的红色背景，实在是有强迫症受不了，于是便打起了修改背景的注意。</p>
 <h2 id="开干"><a href="#开干" class="headerlink" title="开干"></a>开干</h2><ol>
@@ -58,6 +58,7 @@
 <h3 id="shell命令"><a href="#shell命令" class="headerlink" title="shell命令"></a>shell命令</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">curl http://www.lofter.com/tag/%E6%91%84%E5%BD%B1|grep  -oP &quot;http://imglf0\.nosdn\.127\.net/img/\w*\.jpg&quot;|uniq|xargs wget -p lofter -t 10 -T 30 -N</div></pre></td></tr></table></figure>
 <p>当然如果我们想要爬取的网页是分页类型的话，可以加一个循环就好了。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">for i in &#123;1..50&#125;; </div><div class="line">    do </div><div class="line">       url &quot;http://me2-sex.lofter.com/tag/美媛馆?page=&quot;$i |grep -o &quot;http://imglf.*.jpg&quot; |xargs wget -P lofter -t 10 -T 30 -N</div><div class="line">done;</div></pre></td></tr></table></figure>
+<h3 id="上张新的背景图-哈哈"><a href="#上张新的背景图-哈哈" class="headerlink" title="上张新的背景图,哈哈"></a>上张新的背景图,哈哈</h3><p> <img src="http://p1.bpimg.com/4851/96edbab2d2e46c82.png" alt="新的背景图"></p>
 ]]></content>
     
     <summary type="html">
@@ -126,54 +127,6 @@
     
     
       <category term="me" scheme="http://yoursite.com/tags/me/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>A letter to myself</title>
-    <link href="http://yoursite.com/2016/10/05/%E5%8F%A9%E9%97%AE/2014-11-20-Something%20I%20want%20to%20say%20to%20myself/"/>
-    <id>http://yoursite.com/2016/10/05/叩问/2014-11-20-Something I want to say to myself/</id>
-    <published>2016-10-05T13:08:58.068Z</published>
-    <updated>2016-10-05T13:08:58.068Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>一日三省吾身，每天上帝掷骰子般让我们在我们的生活中遇到发生或欢喜或悲伤的事情，无奈的同时，总是会觉得我们可以从生活中得到些什么。</p>
-</blockquote>
-<p>满身疲惫的回到宿舍，蓦然间想起呆在天津的两年时间自己真的是变化了许多，原先是一个十足的二逼青年，每天嘻嘻哈哈不知愁为何味，然现在却每天都会给自己施加很多的压力。我一直知道与周围的人相比我并不是一个聪明的孩子，但我总感觉只要每天都在进步就可以了，我一直想如果让自己每天都不闲下来或许就可以了吧。于是乎每天都不断地给自己找事情做，恐怕自己有闲暇的时间，总感觉自己如果停歇下来就会落后于别人。这到底是多么固执的一个人啊，能把自己逼的这么惨。</p>
-<p>其实写到这里我已经写不下去了，心中虽然有很多的内容想要表达，但是下笔却很难。索性就直接写一点自己想对自己说的话吧。</p>
-<ol>
-<li>不要浮躁，自打上研究生以来你就没有消停过，你整天都很忙的样子，但是又到底做了些什么呢，你太浮躁了少年，总是以为自己懂了一点什么东西就在那里自以为是，沉下心来做事情会死啊！</li>
-</ol>
-<ol>
-<li>最近把那个勤勉的你弄丢了，记得要找回来！</li>
-</ol>
-<ol>
-<li>每天都要深刻的反省，自己到底今天做了些什么，别总是虚度了光阴。</li>
-</ol>
-<ol>
-<li>最近发现你太累了，要学会对自己不喜欢的事情say no！</li>
-</ol>
-<ol>
-<li>做任何事情都要沉得下去心，别以为自己做了一点东西就沾沾自喜，比你牛逼的人物多了去了</li>
-</ol>
-<ol>
-<li>别老是玩手机了，把接下来的课程都学好</li>
-</ol>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;一日三省吾身，每天上帝掷骰子般让我们在我们的生活中遇到发生或欢喜或悲伤的事情，无奈的同时，总是会觉得我们可以从生活中得到些什么。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;满身疲惫的回到宿舍，蓦然间想起呆在天津的两年时间自己真的是变化了许多，原先是
-    
-    </summary>
-    
-      <category term="叩问" scheme="http://yoursite.com/categories/%E5%8F%A9%E9%97%AE/"/>
-    
-    
-      <category term="感想" scheme="http://yoursite.com/tags/%E6%84%9F%E6%83%B3/"/>
     
   </entry>
   
@@ -295,43 +248,6 @@
   </entry>
   
   <entry>
-    <title>岁月静好</title>
-    <link href="http://yoursite.com/2016/10/05/2014-11-20-%E9%9F%B3%E4%B9%90%E7%9A%84%E7%88%B1%E5%A5%BD%E8%80%85/"/>
-    <id>http://yoursite.com/2016/10/05/2014-11-20-音乐的爱好者/</id>
-    <published>2016-10-05T13:08:58.068Z</published>
-    <updated>2016-10-05T13:08:58.068Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="做个低调的听众-无关世事-你在就好"><a href="#做个低调的听众-无关世事-你在就好" class="headerlink" title="做个低调的听众 无关世事 你在就好"></a>做个低调的听众 无关世事 你在就好</h1><blockquote>
-<p>记住。不要试着了解我。</p>
-<p>就像我从不多问你一句话一样。</p>
-<p>陌生之人，铭记于心。</p>
-<p>那么。各自安好。活在音乐里。</p>
-</blockquote>
-<p>我在这里，从最初到现在，<br>自始至终看清楚自己的位置，<br>我仅仅只是一名推荐者，<br>我将自己摆在很低很谦卑的位置。<br>这里只是个分享声音与旋律的地方，<br>音乐不需要身份，不需要性别，甚至炒作。</p>
-<a id="more"></a> 
-<p>我不是什么明星，<br>更不是什么公众人物。</p>
-<p>就像一座商场，我们去到那里，<br>获得我们想要的东西，<br>各取所需，然后各奔东西，<br>回到自己的生命之中。</p>
-<p>你不用问售货员的姓名，<br>不用猜测商场的历史，<br>不用追究衣服的产地。</p>
-<p>你所需要做的，就是喜欢，并且合适，<br>然后买下，带走它。</p>
-<p>灵魂是有属性的，<br>偌大的一个世界，<br>每天有成千上万的人，<br>与你擦肩而过。<br>但依然很多很多的人觉得孤独，<br>很多人觉得无处倾诉。<br>因为他们并没有找到，<br>和自己灵魂属性相同的人们。</p>
-<p>我在这样的一个地方，<br>坚持了这么久，唯一的原因大概就是，<br>它是我连接庞大世界的一个媒介，<br>我可以通过这里，<br>找到那些与我志同道合，或者臭味相投的人。<br>找到那些散落在世界各地的同类，<br>我很满足了。</p>
-<p>我从未说过我是谁，<br>我从未说过，我是个怎么样的人。<br>你们可以把我想象成你们脑海中的任何一个人，<br>任何一种姿态，<br>只要你想，你就可以。<br>但对于我，<br>这个你们可能一辈子都不会谋面的陌生人，<br>没有任何改变。</p>
-<p>并且这并不是我生活的全部，<br>生活远比这更残酷，更真实，<br>我需要在这里找回自己，<br>然后重新回到现实。<br>每个人的心中，都有一座天枰，<br>衡量着自己的世界，<br>与所接受的认识，<br>希望你的天枰，没有倾斜。<br>倾斜，即是坍塌的开始。</p>
-<p>总有一天，我也会离开这里，<br>带着不一样的态度重新出发，<br>继续创造属于我的世界，<br>但，这里所有的回忆，<br>努力与坚持，<br>收获与感动，<br>永远会留在生命的印记之中。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      I Am Simple
-    
-    </summary>
-    
-    
-      <category term="myself" scheme="http://yoursite.com/tags/myself/"/>
-    
-  </entry>
-  
-  <entry>
     <title>使用rebase来重构我们的commit纪录</title>
     <link href="http://yoursite.com/2016/10/05/%E6%8A%80%E6%9C%AF/2016-05-04-%E4%BD%BF%E7%94%A8rebase%E6%9D%A5%E9%87%8D%E6%9E%84%E6%88%91%E4%BB%AC%E7%9A%84%E6%8F%90%E4%BA%A4%E7%BA%AA%E5%BD%95/"/>
     <id>http://yoursite.com/2016/10/05/技术/2016-05-04-使用rebase来重构我们的提交纪录/</id>
@@ -386,6 +302,43 @@
     
     
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>岁月静好</title>
+    <link href="http://yoursite.com/2016/10/05/2014-11-20-%E9%9F%B3%E4%B9%90%E7%9A%84%E7%88%B1%E5%A5%BD%E8%80%85/"/>
+    <id>http://yoursite.com/2016/10/05/2014-11-20-音乐的爱好者/</id>
+    <published>2016-10-05T13:08:58.068Z</published>
+    <updated>2016-10-05T13:08:58.068Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="做个低调的听众-无关世事-你在就好"><a href="#做个低调的听众-无关世事-你在就好" class="headerlink" title="做个低调的听众 无关世事 你在就好"></a>做个低调的听众 无关世事 你在就好</h1><blockquote>
+<p>记住。不要试着了解我。</p>
+<p>就像我从不多问你一句话一样。</p>
+<p>陌生之人，铭记于心。</p>
+<p>那么。各自安好。活在音乐里。</p>
+</blockquote>
+<p>我在这里，从最初到现在，<br>自始至终看清楚自己的位置，<br>我仅仅只是一名推荐者，<br>我将自己摆在很低很谦卑的位置。<br>这里只是个分享声音与旋律的地方，<br>音乐不需要身份，不需要性别，甚至炒作。</p>
+<a id="more"></a> 
+<p>我不是什么明星，<br>更不是什么公众人物。</p>
+<p>就像一座商场，我们去到那里，<br>获得我们想要的东西，<br>各取所需，然后各奔东西，<br>回到自己的生命之中。</p>
+<p>你不用问售货员的姓名，<br>不用猜测商场的历史，<br>不用追究衣服的产地。</p>
+<p>你所需要做的，就是喜欢，并且合适，<br>然后买下，带走它。</p>
+<p>灵魂是有属性的，<br>偌大的一个世界，<br>每天有成千上万的人，<br>与你擦肩而过。<br>但依然很多很多的人觉得孤独，<br>很多人觉得无处倾诉。<br>因为他们并没有找到，<br>和自己灵魂属性相同的人们。</p>
+<p>我在这样的一个地方，<br>坚持了这么久，唯一的原因大概就是，<br>它是我连接庞大世界的一个媒介，<br>我可以通过这里，<br>找到那些与我志同道合，或者臭味相投的人。<br>找到那些散落在世界各地的同类，<br>我很满足了。</p>
+<p>我从未说过我是谁，<br>我从未说过，我是个怎么样的人。<br>你们可以把我想象成你们脑海中的任何一个人，<br>任何一种姿态，<br>只要你想，你就可以。<br>但对于我，<br>这个你们可能一辈子都不会谋面的陌生人，<br>没有任何改变。</p>
+<p>并且这并不是我生活的全部，<br>生活远比这更残酷，更真实，<br>我需要在这里找回自己，<br>然后重新回到现实。<br>每个人的心中，都有一座天枰，<br>衡量着自己的世界，<br>与所接受的认识，<br>希望你的天枰，没有倾斜。<br>倾斜，即是坍塌的开始。</p>
+<p>总有一天，我也会离开这里，<br>带着不一样的态度重新出发，<br>继续创造属于我的世界，<br>但，这里所有的回忆，<br>努力与坚持，<br>收获与感动，<br>永远会留在生命的印记之中。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      I Am Simple
+    
+    </summary>
+    
+    
+      <category term="myself" scheme="http://yoursite.com/tags/myself/"/>
     
   </entry>
   
@@ -517,6 +470,54 @@
     
     
       <category term="life" scheme="http://yoursite.com/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A letter to myself</title>
+    <link href="http://yoursite.com/2016/10/05/%E5%8F%A9%E9%97%AE/2014-11-20-Something%20I%20want%20to%20say%20to%20myself/"/>
+    <id>http://yoursite.com/2016/10/05/叩问/2014-11-20-Something I want to say to myself/</id>
+    <published>2016-10-05T13:08:58.068Z</published>
+    <updated>2016-10-05T13:08:58.068Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>一日三省吾身，每天上帝掷骰子般让我们在我们的生活中遇到发生或欢喜或悲伤的事情，无奈的同时，总是会觉得我们可以从生活中得到些什么。</p>
+</blockquote>
+<p>满身疲惫的回到宿舍，蓦然间想起呆在天津的两年时间自己真的是变化了许多，原先是一个十足的二逼青年，每天嘻嘻哈哈不知愁为何味，然现在却每天都会给自己施加很多的压力。我一直知道与周围的人相比我并不是一个聪明的孩子，但我总感觉只要每天都在进步就可以了，我一直想如果让自己每天都不闲下来或许就可以了吧。于是乎每天都不断地给自己找事情做，恐怕自己有闲暇的时间，总感觉自己如果停歇下来就会落后于别人。这到底是多么固执的一个人啊，能把自己逼的这么惨。</p>
+<p>其实写到这里我已经写不下去了，心中虽然有很多的内容想要表达，但是下笔却很难。索性就直接写一点自己想对自己说的话吧。</p>
+<ol>
+<li>不要浮躁，自打上研究生以来你就没有消停过，你整天都很忙的样子，但是又到底做了些什么呢，你太浮躁了少年，总是以为自己懂了一点什么东西就在那里自以为是，沉下心来做事情会死啊！</li>
+</ol>
+<ol>
+<li>最近把那个勤勉的你弄丢了，记得要找回来！</li>
+</ol>
+<ol>
+<li>每天都要深刻的反省，自己到底今天做了些什么，别总是虚度了光阴。</li>
+</ol>
+<ol>
+<li>最近发现你太累了，要学会对自己不喜欢的事情say no！</li>
+</ol>
+<ol>
+<li>做任何事情都要沉得下去心，别以为自己做了一点东西就沾沾自喜，比你牛逼的人物多了去了</li>
+</ol>
+<ol>
+<li>别老是玩手机了，把接下来的课程都学好</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;一日三省吾身，每天上帝掷骰子般让我们在我们的生活中遇到发生或欢喜或悲伤的事情，无奈的同时，总是会觉得我们可以从生活中得到些什么。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;满身疲惫的回到宿舍，蓦然间想起呆在天津的两年时间自己真的是变化了许多，原先是
+    
+    </summary>
+    
+      <category term="叩问" scheme="http://yoursite.com/categories/%E5%8F%A9%E9%97%AE/"/>
+    
+    
+      <category term="感想" scheme="http://yoursite.com/tags/%E6%84%9F%E6%83%B3/"/>
     
   </entry>
   
